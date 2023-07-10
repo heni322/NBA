@@ -1,5 +1,7 @@
 # PROJET NBA
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heni322/NBA/master)
+
 ![img](/img/logo.png)
  
 -------------------------
